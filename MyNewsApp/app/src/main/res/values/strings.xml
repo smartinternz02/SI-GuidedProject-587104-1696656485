@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="find_sources_and_articles_hint">Find Sources and Articles</string>
+    <string name="general_category">general</string>
+    <string name="business_category">business</string>
+    <string name="entertainment_category">entertainment</string>
+    <string name="health_category">health</string>
+    <string name="science_category">science</string>
+    <string name="sports_category">sports</string>
+    <string name="technology_category">technology</string>
+    <string name="article">Articles</string>
+    <string name="search_for_source">Search for Source</string>
+    <string name="search_for_article">Search for Article</string>
+    <string name="search_for">Search For</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="result_text">Result for %1$s</string>
+    <string name="not_found">Not Found</string>
+
+</resources>
