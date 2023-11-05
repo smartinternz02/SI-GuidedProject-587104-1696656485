@@ -21,9 +21,9 @@ class login_form : AppCompatActivity() {
         var dbhelp=DB_class(applicationContext)
         var db=dbhelp.readableDatabase
         bind.btnlogin.setOnClickListener {
-            var username=bind.logtxt.text.toString();
+            var username=bind.logtxt.text.toString()
             var password=bind.ed3.text.toString()
-            val query="SELECT * FROM user WHERE username='"+username+"' AND pswd='"+password+"'"
+            val query= "SELECT * FROM user WHERE username='$username' AND pswd='$password'"
             val rs=db.rawQuery(query,null)
             if(rs.moveToFirst()){
                 val name=rs.getString(rs.getColumnIndex("name"))
