@@ -1,4 +1,4 @@
-package com.project.newsapp.ui.articles
+package com.aarush.newsapp.ui.articles
 
 import android.content.Intent
 import android.view.LayoutInflater
@@ -6,13 +6,13 @@ import android.view.View
 import android.widget.Toast
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.project.core.abstraction.BaseActivityBinding
-import com.project.core.util.exception.Failure
-import com.project.core.util.pagination.RecyclerViewPaginator
-import com.project.newsapp.R
-import com.project.newsapp.databinding.ActivityArticlesBinding
-import com.project.newsapp.ui.articles.adapter.ArticlesAdapter
-import com.project.newsapp.ui.detail.DetailNewsActivity
+import com.aarush.core.abstraction.BaseActivityBinding
+import com.aarush.core.util.exception.Failure
+import com.aarush.core.util.pagination.RecyclerViewPaginator
+import com.aarush.newsapp.R
+import com.aarush.newsapp.databinding.ActivityArticlesBinding
+import com.aarush.newsapp.ui.articles.adapter.ArticlesAdapter
+import com.aarush.newsapp.ui.detail.DetailNewsActivity
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace 'com.project.newsapp'
+    namespace 'com.aarush.newsapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.project.newsapp"
+        applicationId "com.aarush.newsapp"
         minSdk 24
         targetSdk 33
         versionCode 1

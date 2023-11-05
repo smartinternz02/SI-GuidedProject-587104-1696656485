@@ -1,7 +1,7 @@
-package com.project.core.di
+package com.aarush.core.di
 
-import com.project.core.data.remote.mapper.ArticlesMapper
-import com.project.core.data.remote.mapper.SourcesMapper
+import com.aarush.core.data.remote.mapper.ArticlesMapper
+import com.aarush.core.data.remote.mapper.SourcesMapper
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

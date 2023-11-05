@@ -1,9 +1,9 @@
-package com.project.core.model.repository
+package com.aarush.core.model.repository
 
-import com.project.core.model.model.Article
-import com.project.core.model.model.Source
-import com.project.core.util.exception.Failure
-import com.project.core.util.vo.Either
+import com.aarush.core.model.model.Article
+import com.aarush.core.model.model.Source
+import com.aarush.core.util.exception.Failure
+import com.aarush.core.util.vo.Either
 import kotlinx.coroutines.flow.Flow
 
 interface NewsRepository {

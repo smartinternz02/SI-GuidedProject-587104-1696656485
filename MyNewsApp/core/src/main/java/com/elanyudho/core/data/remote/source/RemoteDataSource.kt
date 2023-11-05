@@ -1,12 +1,12 @@
-package com.project.core.data.remote.source
+package com.aarush.core.data.remote.source
 
-import com.project.core.data.remote.response.ArticlesResponse
-import com.project.core.data.remote.response.SourcesResponse
-import com.project.core.data.remote.service.ApiService
-import com.project.core.pref.EncryptedPreferences
-import com.project.core.util.pagination.PagingConstant
-import com.project.core.util.vo.Either
-import com.project.core.util.exception.Failure
+import com.aarush.core.data.remote.response.ArticlesResponse
+import com.aarush.core.data.remote.response.SourcesResponse
+import com.aarush.core.data.remote.service.ApiService
+import com.aarush.core.pref.EncryptedPreferences
+import com.aarush.core.util.pagination.PagingConstant
+import com.aarush.core.util.vo.Either
+import com.aarush.core.util.exception.Failure
 import javax.inject.Inject
 
 class RemoteDataSource

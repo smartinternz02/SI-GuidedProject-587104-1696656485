@@ -1,12 +1,12 @@
-package com.project.newsapp.ui.articles.adapter
+package com.aarush.newsapp.ui.articles.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.project.core.abstraction.BaseViewHolder
-import com.project.core.abstraction.PagingRecyclerViewAdapter
-import com.project.core.model.model.Article
-import com.project.core.util.extension.glide
-import com.project.newsapp.databinding.ItemArticlesBinding
+import com.aarush.core.abstraction.BaseViewHolder
+import com.aarush.core.abstraction.PagingRecyclerViewAdapter
+import com.aarush.core.model.model.Article
+import com.aarush.core.util.extension.glide
+import com.aarush.newsapp.databinding.ItemArticlesBinding
 
 class ArticlesAdapter : PagingRecyclerViewAdapter<ArticlesAdapter.ViewHolder, Article>() {
 

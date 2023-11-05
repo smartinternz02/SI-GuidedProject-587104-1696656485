@@ -1,6 +1,6 @@
-package com.project.core.network
+package com.aarush.core.network
 
-import com.project.core.pref.EncryptedPreferences
+import com.aarush.core.pref.EncryptedPreferences
 import okhttp3.Interceptor
 import okhttp3.Response
 import javax.inject.Inject

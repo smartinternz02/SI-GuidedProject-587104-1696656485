@@ -1,7 +1,7 @@
-package com.project.core.model.usecase
+package com.aarush.core.model.usecase
 
-import com.project.core.model.model.Source
-import com.project.core.model.repository.NewsRepository
+import com.aarush.core.model.model.Source
+import com.aarush.core.model.repository.NewsRepository
 import javax.inject.Inject
 
 class GetSourceByNameUseCase @Inject constructor(private val repo: NewsRepository) {

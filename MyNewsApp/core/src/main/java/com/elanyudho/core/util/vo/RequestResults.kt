@@ -1,4 +1,4 @@
-package com.project.core.util.vo
+package com.aarush.core.util.vo
 
 enum class RequestResults {
     DATA_NOT_MATCH,

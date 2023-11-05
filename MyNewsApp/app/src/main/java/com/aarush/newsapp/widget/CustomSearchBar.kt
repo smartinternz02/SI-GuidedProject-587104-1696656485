@@ -1,4 +1,4 @@
-package com.project.newsapp.widget
+package com.aarush.newsapp.widget
 
 import android.content.Context
 import android.util.AttributeSet
@@ -7,7 +7,7 @@ import android.widget.ImageView
 import android.widget.LinearLayout
 import androidx.appcompat.widget.SearchView
 import com.bumptech.glide.Glide
-import com.project.newsapp.R
+import com.aarush.newsapp.R
 
 class CustomSearchBar : LinearLayout {
 

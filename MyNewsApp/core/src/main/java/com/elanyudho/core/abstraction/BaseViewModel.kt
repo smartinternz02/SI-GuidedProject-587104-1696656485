@@ -1,4 +1,4 @@
-package com.project.core.abstraction
+package com.aarush.core.abstraction
 
 import androidx.annotation.VisibleForTesting
 import androidx.annotation.VisibleForTesting.PROTECTED

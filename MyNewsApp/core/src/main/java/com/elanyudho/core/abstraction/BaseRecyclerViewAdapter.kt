@@ -1,4 +1,4 @@
-package com.project.core.abstraction
+package com.aarush.core.abstraction
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

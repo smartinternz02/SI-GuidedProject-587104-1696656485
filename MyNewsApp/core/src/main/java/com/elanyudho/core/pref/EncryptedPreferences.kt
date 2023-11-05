@@ -1,10 +1,10 @@
-package com.project.core.pref
+package com.aarush.core.pref
 
 import android.content.Context
 import android.content.SharedPreferences
 import androidx.security.crypto.EncryptedSharedPreferences
 import androidx.security.crypto.MasterKeys
-import com.project.core.BuildConfig
+import com.aarush.core.BuildConfig
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
 
@@ -45,7 +45,7 @@ class EncryptedPreferences
         set(value) = spe.putInt(FILTER, value).apply()
 
     companion object {
-        private const val SECURE_PREF_NAME = "com.project.newapp"
+        private const val SECURE_PREF_NAME = "com.aarush.newapp"
         private const val SECURE_SP_TOKEN = "pref_token"
         private const val BASE_URL = "base_url"
         private const val FILTER = "filter"

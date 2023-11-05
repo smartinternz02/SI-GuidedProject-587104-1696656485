@@ -1,7 +1,7 @@
-package com.project.core.abstraction
+package com.aarush.core.abstraction
 
-import com.project.core.util.exception.Failure
-import com.project.core.util.vo.Either
+import com.aarush.core.util.exception.Failure
+import com.aarush.core.util.vo.Either
 
 abstract class UseCase<out Type, in Params> {
 

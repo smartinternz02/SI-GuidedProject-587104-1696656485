@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.project.newsapp.ui.detail.DetailNewsActivity">
+    tools:context=".ui.detail.DetailNewsActivity">
 
     <include
         android:id="@+id/header_detail"

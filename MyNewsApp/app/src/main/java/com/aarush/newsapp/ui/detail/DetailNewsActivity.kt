@@ -1,4 +1,4 @@
-package com.project.newsapp.ui.detail
+package com.aarush.newsapp.ui.detail
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
@@ -7,9 +7,9 @@ import android.webkit.WebChromeClient
 import android.webkit.WebSettings
 import android.webkit.WebView
 import androidx.lifecycle.lifecycleScope
-import com.project.core.abstraction.BaseActivityBinding
-import com.project.newsapp.R
-import com.project.newsapp.databinding.ActivityDetailNewsBinding
+import com.aarush.core.abstraction.BaseActivityBinding
+import com.aarush.newsapp.R
+import com.aarush.newsapp.databinding.ActivityDetailNewsBinding
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

@@ -1,7 +1,7 @@
-package com.project.core.di
+package com.aarush.core.di
 
-import com.project.core.data.repository.NewsRepositoryImpl
-import com.project.core.model.repository.NewsRepository
+import com.aarush.core.data.repository.NewsRepositoryImpl
+import com.aarush.core.model.repository.NewsRepository
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn

@@ -1,4 +1,4 @@
-package com.project.core.dispatcher
+package com.aarush.core.dispatcher
 
 import kotlinx.coroutines.CoroutineDispatcher
 

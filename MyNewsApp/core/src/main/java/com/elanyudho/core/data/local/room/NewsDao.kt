@@ -1,10 +1,10 @@
-package com.project.core.data.local.room
+package com.aarush.core.data.local.room
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.project.core.model.model.Source
+import com.aarush.core.model.model.Source
 import kotlinx.coroutines.flow.Flow
 
 @Dao

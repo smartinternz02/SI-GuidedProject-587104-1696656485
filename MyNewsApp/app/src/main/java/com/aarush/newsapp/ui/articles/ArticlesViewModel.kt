@@ -1,13 +1,13 @@
-package com.project.newsapp.ui.articles
+package com.aarush.newsapp.ui.articles
 
 import androidx.lifecycle.viewModelScope
-import com.project.core.abstraction.BaseViewModel
-import com.project.core.dispatcher.DispatcherProvider
-import com.project.core.model.model.Article
-import com.project.core.model.usecase.GetArticlesUseCase
-import com.project.core.util.exception.Failure
-import com.project.core.util.extension.onError
-import com.project.core.util.extension.onSuccess
+import com.aarush.core.abstraction.BaseViewModel
+import com.aarush.core.dispatcher.DispatcherProvider
+import com.aarush.core.model.model.Article
+import com.aarush.core.model.usecase.GetArticlesUseCase
+import com.aarush.core.util.exception.Failure
+import com.aarush.core.util.extension.onError
+import com.aarush.core.util.extension.onSuccess
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import javax.inject.Inject

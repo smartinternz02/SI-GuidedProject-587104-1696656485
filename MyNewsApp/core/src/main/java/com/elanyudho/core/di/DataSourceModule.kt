@@ -1,11 +1,11 @@
-package com.project.core.di
+package com.aarush.core.di
 
 
-import com.project.core.data.local.LocalDataSource
-import com.project.core.data.local.room.NewsDao
-import com.project.core.data.remote.service.ApiService
-import com.project.core.data.remote.source.RemoteDataSource
-import com.project.core.pref.EncryptedPreferences
+import com.aarush.core.data.local.LocalDataSource
+import com.aarush.core.data.local.room.NewsDao
+import com.aarush.core.data.remote.service.ApiService
+import com.aarush.core.data.remote.source.RemoteDataSource
+import com.aarush.core.pref.EncryptedPreferences
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

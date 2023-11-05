@@ -1,4 +1,4 @@
-package com.project.core.abstraction
+package com.aarush.core.abstraction
 
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewbinding.ViewBinding

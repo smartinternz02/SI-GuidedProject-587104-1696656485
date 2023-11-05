@@ -1,4 +1,4 @@
-package com.project.core
+package com.aarush.core
 
 import org.junit.Test
 

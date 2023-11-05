@@ -1,5 +1,5 @@
-package com.project.core.util.exception
+package com.aarush.core.util.exception
 
-import com.project.core.util.vo.RequestResults
+import com.aarush.core.util.vo.RequestResults
 
 data class  Failure(val requestResults: RequestResults, val throwable: Throwable, val code:String="")

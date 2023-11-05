@@ -1,18 +1,18 @@
-package com.project.core.data.repository
+package com.aarush.core.data.repository
 
 import android.util.Log
-import com.project.core.data.local.LocalDataSource
-import com.project.core.data.remote.mapper.ArticlesMapper
-import com.project.core.data.remote.mapper.SourcesMapper
-import com.project.core.data.remote.source.RemoteDataSource
-import com.project.core.model.model.Article
-import com.project.core.model.model.Source
-import com.project.core.model.repository.NewsRepository
-import com.project.core.util.exception.Failure
-import com.project.core.util.extension.STATUS_OK
-import com.project.core.util.pagination.PagingConstant
-import com.project.core.util.vo.Either
-import com.project.core.util.vo.RequestResults
+import com.aarush.core.data.local.LocalDataSource
+import com.aarush.core.data.remote.mapper.ArticlesMapper
+import com.aarush.core.data.remote.mapper.SourcesMapper
+import com.aarush.core.data.remote.source.RemoteDataSource
+import com.aarush.core.model.model.Article
+import com.aarush.core.model.model.Source
+import com.aarush.core.model.repository.NewsRepository
+import com.aarush.core.util.exception.Failure
+import com.aarush.core.util.extension.STATUS_OK
+import com.aarush.core.util.pagination.PagingConstant
+import com.aarush.core.util.vo.Either
+import com.aarush.core.util.vo.RequestResults
 import javax.inject.Inject
 
 class NewsRepositoryImpl @Inject constructor(

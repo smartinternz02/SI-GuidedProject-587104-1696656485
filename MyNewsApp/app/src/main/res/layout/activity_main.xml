@@ -4,9 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.project.newsapp.ui.main.MainActivity">
+    tools:context=".ui.main.MainActivity">
 
-    <com.project.newsapp.widget.CustomSearchBar
+    <com.aarush.newsapp.widget.CustomSearchBar
         android:id="@+id/svNews"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -20,7 +20,7 @@
         app:additionalButtonSrc="@drawable/ic_filter"
         app:useAdditionalButton="true" />
 
-    <com.project.newsapp.widget.CustomTabLayout
+    <com.aarush.newsapp.widget.CustomTabLayout
         android:id="@+id/tab_layout_category"
         style="@style/Theme.NewsApp.ChooserTabLayout"
         android:layout_width="0dp"

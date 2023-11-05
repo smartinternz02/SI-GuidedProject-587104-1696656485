@@ -1,4 +1,4 @@
-package com.project.core.data.remote.response
+package com.aarush.core.data.remote.response
 
 
 import com.google.gson.annotations.SerializedName

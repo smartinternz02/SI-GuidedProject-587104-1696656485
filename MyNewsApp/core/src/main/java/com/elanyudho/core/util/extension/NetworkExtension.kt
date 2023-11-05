@@ -1,4 +1,4 @@
-package com.project.core.util.extension
+package com.aarush.core.util.extension
 
 import okhttp3.MultipartBody
 import okhttp3.RequestBody

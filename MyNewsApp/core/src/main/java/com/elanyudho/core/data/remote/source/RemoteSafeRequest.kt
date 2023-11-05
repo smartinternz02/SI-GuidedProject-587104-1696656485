@@ -1,11 +1,11 @@
-package com.project.core.data.remote.source
+package com.aarush.core.data.remote.source
 
 
-import com.project.core.util.exception.Failure
-import com.project.core.util.extension.hasEmptyBody
-import com.project.core.util.extension.isTotallySuccess
-import com.project.core.util.vo.Either
-import com.project.core.util.vo.RequestResults
+import com.aarush.core.util.exception.Failure
+import com.aarush.core.util.extension.hasEmptyBody
+import com.aarush.core.util.extension.isTotallySuccess
+import com.aarush.core.util.vo.Either
+import com.aarush.core.util.vo.RequestResults
 import org.json.JSONException
 import org.json.JSONObject
 import retrofit2.Response

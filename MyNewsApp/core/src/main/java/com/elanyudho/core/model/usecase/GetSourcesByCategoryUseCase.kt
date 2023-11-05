@@ -1,10 +1,10 @@
-package com.project.core.model.usecase
+package com.aarush.core.model.usecase
 
-import com.project.core.abstraction.UseCase
-import com.project.core.model.model.Source
-import com.project.core.model.repository.NewsRepository
-import com.project.core.util.exception.Failure
-import com.project.core.util.vo.Either
+import com.aarush.core.abstraction.UseCase
+import com.aarush.core.model.model.Source
+import com.aarush.core.model.repository.NewsRepository
+import com.aarush.core.util.exception.Failure
+import com.aarush.core.util.vo.Either
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 

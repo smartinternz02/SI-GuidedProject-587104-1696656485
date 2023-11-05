@@ -1,13 +1,15 @@
-package com.project.newsapp.ui.main
+package com.aarush.newsapp.ui.main
 
 import androidx.lifecycle.viewModelScope
-import com.project.core.abstraction.BaseViewModel
-import com.project.core.dispatcher.DispatcherProvider
-import com.project.core.model.model.Source
-import com.project.core.model.usecase.GetSourcesByCategoryUseCase
-import com.project.core.util.exception.Failure
-import com.project.core.util.extension.onError
-import com.project.core.util.extension.onSuccess
+import com.aarush.core.abstraction.BaseViewModel
+import com.aarush.core.dispatcher.DispatcherProvider
+import com.aarush.core.model.model.Source
+import com.aarush.core.model.usecase.GetSourcesByCategoryUseCase
+import com.aarush.core.util.exception.Failure
+import com.aarush.core.util.extension.onError
+import com.aarush.core.util.extension.onSuccess
+import kotlinx.coroutines.flow.collectLatest
+import kotlinx.coroutines.flow.onStart
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import javax.inject.Inject

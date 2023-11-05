@@ -1,4 +1,4 @@
-package com.project.core.util.pagination
+package com.aarush.core.util.pagination
 
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager

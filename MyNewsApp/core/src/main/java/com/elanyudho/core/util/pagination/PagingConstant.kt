@@ -1,4 +1,4 @@
-package com.project.core.util.pagination
+package com.aarush.core.util.pagination
 
 object PagingConstant {
     const val BATCH_SIZE = 10

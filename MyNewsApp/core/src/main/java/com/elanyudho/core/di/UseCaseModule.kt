@@ -1,10 +1,10 @@
-package com.project.core.di
+package com.aarush.core.di
 
-import com.project.core.model.repository.NewsRepository
-import com.project.core.model.usecase.GetArticlesByQueryUseCase
-import com.project.core.model.usecase.GetArticlesUseCase
-import com.project.core.model.usecase.GetSourceByNameUseCase
-import com.project.core.model.usecase.GetSourcesByCategoryUseCase
+import com.aarush.core.model.repository.NewsRepository
+import com.aarush.core.model.usecase.GetArticlesByQueryUseCase
+import com.aarush.core.model.usecase.GetArticlesUseCase
+import com.aarush.core.model.usecase.GetSourceByNameUseCase
+import com.aarush.core.model.usecase.GetSourcesByCategoryUseCase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

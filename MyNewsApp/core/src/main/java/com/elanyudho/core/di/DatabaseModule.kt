@@ -1,9 +1,9 @@
-package com.project.core.di
+package com.aarush.core.di
 
 import android.content.Context
 import androidx.room.Room
-import com.project.core.data.local.room.NewsDao
-import com.project.core.data.local.room.NewsDatabase
+import com.aarush.core.data.local.room.NewsDao
+import com.aarush.core.data.local.room.NewsDatabase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

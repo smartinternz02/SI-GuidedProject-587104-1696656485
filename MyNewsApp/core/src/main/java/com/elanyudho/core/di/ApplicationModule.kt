@@ -1,12 +1,12 @@
-package com.project.core.di
+package com.aarush.core.di
 
 import android.content.Context
-import com.project.core.BuildConfig
-import com.project.core.data.remote.service.ApiService
+import com.aarush.core.BuildConfig
+import com.aarush.core.data.remote.service.ApiService
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
-import com.project.core.network.NetworkInterceptor
-import com.project.core.pref.EncryptedPreferences
+import com.aarush.core.network.NetworkInterceptor
+import com.aarush.core.pref.EncryptedPreferences
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

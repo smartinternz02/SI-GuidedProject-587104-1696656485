@@ -1,9 +1,9 @@
-package com.project.core.data.remote.mapper
+package com.aarush.core.data.remote.mapper
 
-import com.project.core.abstraction.BaseMapper
-import com.project.core.data.remote.response.SourcesResponse
-import com.project.core.model.model.Source
-import com.project.core.util.extension.NOT_AVAILABLE
+import com.aarush.core.abstraction.BaseMapper
+import com.aarush.core.data.remote.response.SourcesResponse
+import com.aarush.core.model.model.Source
+import com.aarush.core.util.extension.NOT_AVAILABLE
 
 class SourcesMapper : BaseMapper<SourcesResponse, List<Source>> {
 

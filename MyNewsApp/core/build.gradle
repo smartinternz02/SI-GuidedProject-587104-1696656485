@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace 'com.project.core'
+    namespace 'com.aarush.core'
     compileSdk 33
 
     defaultConfig {

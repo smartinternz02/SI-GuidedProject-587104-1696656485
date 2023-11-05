@@ -1,4 +1,4 @@
-package com.project.newsapp.ui.main
+package com.aarush.newsapp.ui.main
 
 import android.app.AlertDialog
 import android.content.Intent
@@ -8,16 +8,16 @@ import android.widget.Toast
 import androidx.appcompat.widget.SearchView
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.project.core.abstraction.BaseActivityBinding
-import com.project.core.pref.EncryptedPreferences
-import com.project.core.util.exception.Failure
-import com.project.core.util.extension.dp
-import com.project.core.util.pagination.RecyclerViewPaginator
-import com.project.newsapp.R
-import com.project.newsapp.databinding.ActivityMainBinding
-import com.project.newsapp.ui.articles.ArticlesActivity
-import com.project.newsapp.ui.main.adapter.SourceAdapter
-import com.project.newsapp.ui.search.SearchActivity
+import com.aarush.core.abstraction.BaseActivityBinding
+import com.aarush.core.pref.EncryptedPreferences
+import com.aarush.core.util.exception.Failure
+import com.aarush.core.util.extension.dp
+import com.aarush.core.util.pagination.RecyclerViewPaginator
+import com.aarush.newsapp.R
+import com.aarush.newsapp.databinding.ActivityMainBinding
+import com.aarush.newsapp.ui.articles.ArticlesActivity
+import com.aarush.newsapp.ui.main.adapter.SourceAdapter
+import com.aarush.newsapp.ui.search.SearchActivity
 import com.google.android.material.tabs.TabLayout
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject

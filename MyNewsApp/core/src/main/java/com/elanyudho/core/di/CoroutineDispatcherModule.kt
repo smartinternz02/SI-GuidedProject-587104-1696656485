@@ -1,7 +1,7 @@
-package com.project.core.di
+package com.aarush.core.di
 
-import com.project.core.dispatcher.DispatcherProvider
-import com.project.core.dispatcher.DispatcherProviderImpl
+import com.aarush.core.dispatcher.DispatcherProvider
+import com.aarush.core.dispatcher.DispatcherProviderImpl
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn

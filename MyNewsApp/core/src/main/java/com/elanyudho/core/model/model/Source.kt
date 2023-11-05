@@ -1,4 +1,4 @@
-package com.project.core.model.model
+package com.aarush.core.model.model
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

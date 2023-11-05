@@ -1,6 +1,6 @@
-package com.project.core.dispatcher
+package com.aarush.core.dispatcher
 
-import com.project.core.dispatcher.DispatcherProvider
+import com.aarush.core.dispatcher.DispatcherProvider
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.Dispatchers
 import javax.inject.Inject

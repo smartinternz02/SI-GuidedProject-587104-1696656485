@@ -1,7 +1,7 @@
-package com.project.core.data.remote.service
+package com.aarush.core.data.remote.service
 
-import com.project.core.data.remote.response.ArticlesResponse
-import com.project.core.data.remote.response.SourcesResponse
+import com.aarush.core.data.remote.response.ArticlesResponse
+import com.aarush.core.data.remote.response.SourcesResponse
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

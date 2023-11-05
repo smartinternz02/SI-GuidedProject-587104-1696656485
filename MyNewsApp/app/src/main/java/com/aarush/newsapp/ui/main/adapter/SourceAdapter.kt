@@ -1,11 +1,11 @@
-package com.project.newsapp.ui.main.adapter
+package com.aarush.newsapp.ui.main.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.project.core.abstraction.BaseViewHolder
-import com.project.core.abstraction.PagingRecyclerViewAdapter
-import com.project.core.model.model.Source
-import com.project.newsapp.databinding.ItemSourceBinding
+import com.aarush.core.abstraction.BaseViewHolder
+import com.aarush.core.abstraction.PagingRecyclerViewAdapter
+import com.aarush.core.model.model.Source
+import com.aarush.newsapp.databinding.ItemSourceBinding
 
 class SourceAdapter : PagingRecyclerViewAdapter<SourceAdapter.ViewHolder, Source>() {
 

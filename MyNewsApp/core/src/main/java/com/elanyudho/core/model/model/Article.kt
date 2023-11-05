@@ -1,4 +1,4 @@
-package com.project.core.model.model
+package com.aarush.core.model.model
 
 data class Article(
     val source: String = "",

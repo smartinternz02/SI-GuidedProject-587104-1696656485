@@ -1,4 +1,4 @@
-package com.project.newsapp.widget
+package com.aarush.newsapp.widget
 
 import android.content.Context
 import android.util.AttributeSet

@@ -1,16 +1,16 @@
-package com.project.newsapp.ui.search.adapter
+package com.aarush.newsapp.ui.search.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.project.core.abstraction.PagingRecyclerViewAdapter
-import com.project.core.model.model.Article
-import com.project.core.model.model.Source
-import com.project.core.util.extension.glide
-import com.project.newsapp.databinding.ItemArticlesBinding
-import com.project.newsapp.databinding.ItemSourceBinding
-import com.project.newsapp.ui.main.MainActivity.Companion.SEARCH_ARTICLE
-import com.project.newsapp.ui.main.MainActivity.Companion.SEARCH_SOURCE
+import com.aarush.core.abstraction.PagingRecyclerViewAdapter
+import com.aarush.core.model.model.Article
+import com.aarush.core.model.model.Source
+import com.aarush.core.util.extension.glide
+import com.aarush.newsapp.databinding.ItemArticlesBinding
+import com.aarush.newsapp.databinding.ItemSourceBinding
+import com.aarush.newsapp.ui.main.MainActivity.Companion.SEARCH_ARTICLE
+import com.aarush.newsapp.ui.main.MainActivity.Companion.SEARCH_SOURCE
 
 class SearchAdapter : PagingRecyclerViewAdapter<RecyclerView.ViewHolder, Any>() {
 

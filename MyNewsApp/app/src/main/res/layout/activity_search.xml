@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.project.newsapp.ui.search.SearchActivity">
+    tools:context=".ui.search.SearchActivity">
 
     <ImageView
         android:id="@+id/btnBack"
@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <com.project.newsapp.widget.CustomSearchBar
+    <com.aarush.newsapp.widget.CustomSearchBar
         android:id="@+id/svNews"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
