@@ -5,6 +5,7 @@ import android.content.ContentValues;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Toast;
+import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity;
 import com.aarush.newsapp.databinding.ActivitySignupFormBinding;
 class signupForm : AppCompatActivity() {
@@ -35,6 +36,12 @@ class signupForm : AppCompatActivity() {
                         binding.ed1.text.clear()
                         binding.ed2.text.clear()
                         binding.ed3.text.clear()
+                        val handler = Handler()
+                        handler.postDelayed({
+                            // Start the login_form activity after a 1.5-second delay
+                            val intent = Intent(this, login_form::class.java)
+                            startActivity(intent)
+                        }, 1500)
                     } else {
                         var ad = AlertDialog.Builder(this)
                         ad.setTitle("Message")
