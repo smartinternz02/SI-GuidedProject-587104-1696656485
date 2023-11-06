@@ -5,7 +5,7 @@ import android.database.sqlite.SQLiteOpenHelper
 class DB_class(context: Context): SQLiteOpenHelper(context,DATABASE_NAME,null,DATABASE_VERSION) {
     companion object {
         private val DATABASE_VERSION = 1
-        private val DATABASE_NAME = "AmirDatabase"
+        private val DATABASE_NAME = "AarushDatabase"
         private val TABLE_CONTACTS = "user"
         private val KEY_NAME = "name"
         private val KEY_UNAME = "username"
