@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/DB_class.kt</file>
+  <line>5</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="class" FQNAME="com.aarush.newsapp.DB_class" />
+  <problem_class id="ClassName" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class naming convention</problem_class>
+  <description>Class name &lt;code&gt;DB_class&lt;/code&gt; should not contain underscores #loc</description>
+  <highlighted_element>DB_class</highlighted_element>
+  <language>kotlin</language>
+  <offset>6</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/login_form.kt</file>
+  <line>13</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="class" FQNAME="com.aarush.newsapp.login_form" />
+  <problem_class id="ClassName" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class naming convention</problem_class>
+  <description>Class name &lt;code&gt;login_form&lt;/code&gt; should start with an uppercase letter #loc</description>
+  <highlighted_element>login_form</highlighted_element>
+  <language>kotlin</language>
+  <offset>6</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>12</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="class" FQNAME="com.aarush.newsapp.signupForm" />
+  <problem_class id="ClassName" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class naming convention</problem_class>
+  <description>Class name &lt;code&gt;signupForm&lt;/code&gt; should start with an uppercase letter #loc</description>
+  <highlighted_element>signupForm</highlighted_element>
+  <language>kotlin</language>
+  <offset>6</offset>
+  <length>10</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/DB_class.kt</file>
+  <line>23</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.DB_class void onUpgrade(android.database.sqlite.SQLiteDatabase db, int p1, int p2)" />
+  <problem_class id="ConvertToStringTemplate" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">String concatenation that can be converted to string template</problem_class>
+  <description>'String' concatenation can be converted to a template</description>
+  <highlighted_element>&quot;DROP TABLE IF EXISTS &quot; + TABLE_CONTACTS</highlighted_element>
+  <language>kotlin</language>
+  <offset>21</offset>
+  <length>40</length>
+</problem>
+</problems>

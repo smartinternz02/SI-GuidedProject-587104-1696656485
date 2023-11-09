@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>36</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintAutofill" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use Autofill</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;autofillHints&lt;/code&gt; attribute&lt;/html&gt;</description>
+  <highlighted_element>EditText</highlighted_element>
+  <language>XML</language>
+  <offset>9</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>50</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintAutofill" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use Autofill</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;autofillHints&lt;/code&gt; attribute&lt;/html&gt;</description>
+  <highlighted_element>EditText</highlighted_element>
+  <language>XML</language>
+  <offset>9</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>36</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintAutofill" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use Autofill</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;autofillHints&lt;/code&gt; attribute&lt;/html&gt;</description>
+  <highlighted_element>EditText</highlighted_element>
+  <language>XML</language>
+  <offset>9</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>50</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintAutofill" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use Autofill</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;autofillHints&lt;/code&gt; attribute&lt;/html&gt;</description>
+  <highlighted_element>EditText</highlighted_element>
+  <language>XML</language>
+  <offset>9</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>64</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintAutofill" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use Autofill</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;autofillHints&lt;/code&gt; attribute&lt;/html&gt;</description>
+  <highlighted_element>EditText</highlighted_element>
+  <language>XML</language>
+  <offset>9</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml</file>
+  <line>43</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml" />
+  <problem_class id="AndroidLintAutofill" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use Autofill</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;autofillHints&lt;/code&gt; attribute&lt;/html&gt;</description>
+  <highlighted_element>EditText</highlighted_element>
+  <language>XML</language>
+  <offset>9</offset>
+  <length>8</length>
+</problem>
+</problems>

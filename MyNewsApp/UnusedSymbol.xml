@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/widget/CustomSearchBar.kt</file>
+  <line>61</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.widget</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.widget.CustomSearchBar void setOnSearchViewClickListener(kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt; listener)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;setOnSearchViewClickListener&quot; is never used</description>
+  <highlighted_element>setOnSearchViewClickListener</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>28</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/widget/CustomSearchBar.kt</file>
+  <line>83</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.widget</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.widget.CustomSearchBar void setQueryHint(java.lang.String hint)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;setQueryHint&quot; is never used</description>
+  <highlighted_element>setQueryHint</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/widget/CustomSearchBar.kt</file>
+  <line>87</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.widget</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.widget.CustomSearchBar java.lang.String getQuery()" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;getQuery&quot; is never used</description>
+  <highlighted_element>getQuery</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/widget/CustomSearchBar.kt</file>
+  <line>91</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.widget</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.widget.CustomSearchBar void isUseSearchIcon(boolean isUse)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;isUseSearchIcon&quot; is never used</description>
+  <highlighted_element>isUseSearchIcon</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/widget/CustomSearchBar.kt</file>
+  <line>97</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.widget</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.widget.CustomSearchBar void isUsingAdditionalButton(boolean isUsing)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;isUsingAdditionalButton&quot; is never used</description>
+  <highlighted_element>isUsingAdditionalButton</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/widget/CustomTabLayout.kt</file>
+  <line>31</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.widget</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.widget.CustomTabLayout void setIndicatorForViewPager(androidx.viewpager2.widget.ViewPager2 pager)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;setIndicatorForViewPager&quot; is never used</description>
+  <highlighted_element>setIndicatorForViewPager</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>24</length>
+</problem>
+</problems>

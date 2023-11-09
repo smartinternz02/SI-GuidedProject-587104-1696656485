@@ -1,0 +1,310 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/baseline_email_24.xml</file>
+  <line>1</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/baseline_email_24.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.baseline_email_24&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>&lt;vector android:height=&quot;24dp&quot; android:tint=&quot;#224AC9&quot; android:viewportHeight=&quot;24&quot; android:viewpor...</highlighted_element>
+  <language>XML</language>
+  <offset>0</offset>
+  <length>414</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/baseline_lock_24.xml</file>
+  <line>1</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/baseline_lock_24.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.baseline_lock_24&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>&lt;vector android:height=&quot;24dp&quot; android:tint=&quot;#224AC9&quot; android:viewportHeight=&quot;24&quot; android:viewpor...</highlighted_element>
+  <language>XML</language>
+  <offset>0</offset>
+  <length>554</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/baseline_lock_reset_24.xml</file>
+  <line>1</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/baseline_lock_reset_24.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.baseline_lock_reset_24&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>&lt;vector android:height=&quot;24dp&quot; android:tint=&quot;#224AC9&quot; android:viewportHeight=&quot;24&quot; android:viewpor...</highlighted_element>
+  <language>XML</language>
+  <offset>0</offset>
+  <length>647</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/baseline_password_24.xml</file>
+  <line>1</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/baseline_password_24.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.baseline_password_24&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>&lt;vector android:height=&quot;24dp&quot; android:tint=&quot;#224AC9&quot; android:viewportHeight=&quot;24&quot; android:viewpor...</highlighted_element>
+  <language>XML</language>
+  <offset>0</offset>
+  <length>736</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml</file>
+  <line>2</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.ic_launcher_background&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; android:width=&quot;108dp&quot; and...</highlighted_element>
+  <language>XML</language>
+  <offset>0</offset>
+  <length>5566</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml</file>
+  <line>1</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.ic_launcher_foreground&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; xmlns:aapt=&quot;http://schemas.an...</highlighted_element>
+  <language>XML</language>
+  <offset>0</offset>
+  <length>1702</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/lavender_border.xml</file>
+  <line>2</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/lavender_border.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.lavender_border&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>&lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; android:shape=&quot;rectangle&quot;&gt; ...</highlighted_element>
+  <language>XML</language>
+  <offset>0</offset>
+  <length>285</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/lavender_fill.xml</file>
+  <line>2</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/lavender_fill.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.lavender_fill&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>&lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; android:shape=&quot;rectangle&quot;&gt; ...</highlighted_element>
+  <language>XML</language>
+  <offset>0</offset>
+  <length>250</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/loginbkg.png</file>
+  <line>1</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/loginbkg.png" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.loginbkg&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/signupbkg.png</file>
+  <line>1</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/signupbkg.png" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.signupbkg&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml</file>
+  <line>1</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.ic_launcher_foreground&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; xmlns:aapt=&quot;http://schemas.an...</highlighted_element>
+  <language>XML</language>
+  <offset>0</offset>
+  <length>1702</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml</file>
+  <line>2</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.layout.dialog_forgot&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>&lt;androidx.constraintlayout.widget.ConstraintLayout xmlns:android=&quot;http://schemas.android.com/apk/res...</highlighted_element>
+  <language>XML</language>
+  <offset>0</offset>
+  <length>3880</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/colors.xml</file>
+  <line>6</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.color.lavender&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;lavender&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/colors.xml</file>
+  <line>7</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.color.grey&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;grey&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/colors.xml</file>
+  <line>9</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.color.purple_200&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;purple_200&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/colors.xml</file>
+  <line>10</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.color.purple_500&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;purple_500&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/colors.xml</file>
+  <line>11</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.color.purple_700&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;purple_700&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/colors.xml</file>
+  <line>13</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.color.teal_700&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;teal_700&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/themes.xml</file>
+  <line>27</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.style.Theme_Firedatabase_assis&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;Theme.Firedatabase_assis&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/themes.xml</file>
+  <line>55</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.style.RoundedSquare&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;RoundedSquare&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/themes.xml</file>
+  <line>58</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.style.Theme_LoginSignup&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;Theme.LoginSignup&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml</file>
+  <line>27</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.style.Theme_Firedatabase_assis&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;Theme.Firedatabase_assis&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml</file>
+  <line>55</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.style.RoundedSquare&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;RoundedSquare&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml</file>
+  <line>58</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" />
+  <problem_class id="AndroidLintUnusedResources" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+  <hints />
+  <description>&lt;html&gt;The resource &lt;code&gt;R.style.Theme_LoginSignup&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  <highlighted_element>name=&quot;Theme.LoginSignup&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>11</offset>
+  <length>24</length>
+</problem>
+</problems>

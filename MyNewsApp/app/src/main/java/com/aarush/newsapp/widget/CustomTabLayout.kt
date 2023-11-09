@@ -22,7 +22,7 @@ class CustomTabLayout: TabLayout {
     fun setTabsMargin(left: Int, top: Int, right: Int, bottom: Int) {
         for (i in 0 until tabCount) {
             val tab = (getChildAt(0) as ViewGroup).getChildAt(i)
-            val params = tab.layoutParams as ViewGroup.MarginLayoutParams
+            val params = tab.layoutParams as MarginLayoutParams
             params.setMargins(left, top, right, bottom)
             tab.requestLayout()
         }

@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>89</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintSpUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Using dp instead of sp for text sizes</problem_class>
+  <hints />
+  <description>&lt;html&gt;Should use &quot;&lt;code&gt;sp&lt;/code&gt;&quot; instead of &quot;&lt;code&gt;dp&lt;/code&gt;&quot; for text sizes&lt;/html&gt;</description>
+  <highlighted_element>android:textSize=&quot;20dp&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>114</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintSpUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Using dp instead of sp for text sizes</problem_class>
+  <hints />
+  <description>&lt;html&gt;Should use &quot;&lt;code&gt;sp&lt;/code&gt;&quot; instead of &quot;&lt;code&gt;dp&lt;/code&gt;&quot; for text sizes&lt;/html&gt;</description>
+  <highlighted_element>android:textSize=&quot;15dp&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>16</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>123</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintSpUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Using dp instead of sp for text sizes</problem_class>
+  <hints />
+  <description>&lt;html&gt;Should use &quot;&lt;code&gt;sp&lt;/code&gt;&quot; instead of &quot;&lt;code&gt;dp&lt;/code&gt;&quot; for text sizes&lt;/html&gt;</description>
+  <highlighted_element>android:textSize=&quot;16dp&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>16</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>103</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintSpUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Using dp instead of sp for text sizes</problem_class>
+  <hints />
+  <description>&lt;html&gt;Should use &quot;&lt;code&gt;sp&lt;/code&gt;&quot; instead of &quot;&lt;code&gt;dp&lt;/code&gt;&quot; for text sizes&lt;/html&gt;</description>
+  <highlighted_element>android:textSize=&quot;20dp&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>133</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintSpUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Using dp instead of sp for text sizes</problem_class>
+  <hints />
+  <description>&lt;html&gt;Should use &quot;&lt;code&gt;sp&lt;/code&gt;&quot; instead of &quot;&lt;code&gt;dp&lt;/code&gt;&quot; for text sizes&lt;/html&gt;</description>
+  <highlighted_element>android:textSize=&quot;15dp&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>16</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>142</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintSpUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Using dp instead of sp for text sizes</problem_class>
+  <hints />
+  <description>&lt;html&gt;Should use &quot;&lt;code&gt;sp&lt;/code&gt;&quot; instead of &quot;&lt;code&gt;dp&lt;/code&gt;&quot; for text sizes&lt;/html&gt;</description>
+  <highlighted_element>android:textSize=&quot;16dp&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>16</offset>
+  <length>23</length>
+</problem>
+</problems>

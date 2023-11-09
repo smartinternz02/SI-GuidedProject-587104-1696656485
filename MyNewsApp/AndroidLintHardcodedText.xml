@@ -1,0 +1,249 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>26</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;LOGIN&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;LOGIN&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>42</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Enter username&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;Enter username&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>56</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Enter password&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;Enter password&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>72</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Show Password&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Show Password&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>28</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>88</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Login&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Login&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>112</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Not Registered? &quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Not Registered? &quot;</highlighted_element>
+  <language>XML</language>
+  <offset>16</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>120</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Sign Up&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Sign Up&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>16</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>26</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;REGISTRATION&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;REGISTRATION&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>42</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Enter Full Name&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;Enter Full Name&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>57</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Enter Username&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;Enter Username&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>70</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Enter password&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:hint=&quot;Enter password&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>86</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Show Password&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Show Password&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>28</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>102</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Register&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Register&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>131</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Already Registered? &quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Already Registered? &quot;</highlighted_element>
+  <language>XML</language>
+  <offset>16</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>139</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Login&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Login&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>16</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml</file>
+  <line>25</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Forgot Password&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Forgot Password&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml</file>
+  <line>34</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Enter your email address&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Enter your email address&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml</file>
+  <line>67</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Cancel&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Cancel&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml</file>
+  <line>86</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Reset&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Reset&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>20</length>
+</problem>
+</problems>

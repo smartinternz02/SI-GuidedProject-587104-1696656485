@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/widget/CustomSearchBar.kt</file>
+  <line>105</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.widget</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.widget.CustomSearchBar void setAdditionalButtonImage(java.lang.Object source)" />
+  <problem_class id="MemberVisibilityCanBePrivate" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class member can have 'private' visibility</problem_class>
+  <description>Function 'setAdditionalButtonImage' could be private</description>
+  <highlighted_element>setAdditionalButtonImage</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>24</length>
+</problem>
+</problems>

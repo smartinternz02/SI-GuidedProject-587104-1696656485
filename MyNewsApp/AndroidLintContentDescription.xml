@@ -1,0 +1,93 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>14</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintContentDescription" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Image without contentDescription</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;contentDescription&lt;/code&gt; attribute on image&lt;/html&gt;</description>
+  <highlighted_element>ImageView</highlighted_element>
+  <language>XML</language>
+  <offset>9</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml</file>
+  <line>9</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" />
+  <problem_class id="AndroidLintContentDescription" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Image without contentDescription</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;contentDescription&lt;/code&gt; attribute on image&lt;/html&gt;</description>
+  <highlighted_element>ImageView</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>14</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintContentDescription" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Image without contentDescription</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;contentDescription&lt;/code&gt; attribute on image&lt;/html&gt;</description>
+  <highlighted_element>ImageView</highlighted_element>
+  <language>XML</language>
+  <offset>9</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/empty_data.xml</file>
+  <line>11</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/empty_data.xml" />
+  <problem_class id="AndroidLintContentDescription" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Image without contentDescription</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;contentDescription&lt;/code&gt; attribute on image&lt;/html&gt;</description>
+  <highlighted_element>ImageView</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/header_app.xml</file>
+  <line>10</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/header_app.xml" />
+  <problem_class id="AndroidLintContentDescription" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Image without contentDescription</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;contentDescription&lt;/code&gt; attribute on image&lt;/html&gt;</description>
+  <highlighted_element>ImageView</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>16</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="AndroidLintContentDescription" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Image without contentDescription</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;contentDescription&lt;/code&gt; attribute on image&lt;/html&gt;</description>
+  <highlighted_element>ImageView</highlighted_element>
+  <language>XML</language>
+  <offset>9</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>13</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="AndroidLintContentDescription" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Image without contentDescription</problem_class>
+  <hints />
+  <description>&lt;html&gt;Missing &lt;code&gt;contentDescription&lt;/code&gt; attribute on image&lt;/html&gt;</description>
+  <highlighted_element>ImageView</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>9</length>
+</problem>
+</problems>

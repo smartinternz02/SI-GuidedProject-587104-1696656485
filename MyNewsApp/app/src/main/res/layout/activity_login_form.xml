@@ -71,7 +71,7 @@
             android:layout_height="wrap_content"
             android:text="Show Password"
             android:textSize="14sp"
-            android:textColor="@color/teal_200"
+            android:backgroundTint="@color/teal_200"
             app:layout_constraintTop_toBottomOf="@+id/ed3"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

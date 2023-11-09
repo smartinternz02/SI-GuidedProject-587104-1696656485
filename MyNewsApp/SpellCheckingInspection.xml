@@ -1,0 +1,538 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/DB_class.kt</file>
+  <line>12</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="field" FQNAME="com.aarush.newsapp.DB_class KEY_PSWD" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'PSWD'</description>
+  <highlighted_element>PSWD</highlighted_element>
+  <language>kotlin</language>
+  <offset>24</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/DB_class.kt</file>
+  <line>12</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="field" FQNAME="com.aarush.newsapp.DB_class KEY_PSWD" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'pswd'</description>
+  <highlighted_element>pswd</highlighted_element>
+  <language>kotlin</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/DB_class.kt</file>
+  <line>16</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.DB_class void onCreate(android.database.sqlite.SQLiteDatabase db)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'newtb'</description>
+  <highlighted_element>newtb</highlighted_element>
+  <language>kotlin</language>
+  <offset>12</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/login_form.kt</file>
+  <line>22</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.login_form void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'dbhelp'</description>
+  <highlighted_element>dbhelp</highlighted_element>
+  <language>kotlin</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/login_form.kt</file>
+  <line>28</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.login_form void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'pswd'</description>
+  <highlighted_element>pswd</highlighted_element>
+  <language>kotlin</language>
+  <offset>75</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>20</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'dbhelp'</description>
+  <highlighted_element>dbhelp</highlighted_element>
+  <language>kotlin</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>41</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'pswd'</description>
+  <highlighted_element>pswd</highlighted_element>
+  <language>kotlin</language>
+  <offset>26</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/search/SearchViewModel.kt</file>
+  <line>41</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.ui.search</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.ui.search.SearchViewModel void getSourceByName(java.lang.String name, long page)" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'datalistv'</description>
+  <highlighted_element>datalistv</highlighted_element>
+  <language>kotlin</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail_news.xml</file>
+  <line>20</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail_news.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'webview'</description>
+  <highlighted_element>webview</highlighted_element>
+  <language>XML</language>
+  <offset>25</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>37</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'logtxt'</description>
+  <highlighted_element>logtxt</highlighted_element>
+  <language>XML</language>
+  <offset>29</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>66</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'logtxt'</description>
+  <highlighted_element>logtxt</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>82</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'btnlogin'</description>
+  <highlighted_element>btnlogin</highlighted_element>
+  <language>XML</language>
+  <offset>29</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>103</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'btnlogin'</description>
+  <highlighted_element>btnlogin</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>96</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'btnrgs'</description>
+  <highlighted_element>btnrgs</highlighted_element>
+  <language>XML</language>
+  <offset>29</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>122</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'btnrgs'</description>
+  <highlighted_element>btnrgs</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'kfonneoriwgiewrgbie'</description>
+  <highlighted_element>kfonneoriwgiewrgbie</highlighted_element>
+  <language>XML</language>
+  <offset>24</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'fgnninfiqn'</description>
+  <highlighted_element>fgnninfiqn</highlighted_element>
+  <language>XML</language>
+  <offset>45</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'nfwqngiqign'</description>
+  <highlighted_element>nfwqngiqign</highlighted_element>
+  <language>XML</language>
+  <offset>56</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'wnfkwwfm'</description>
+  <highlighted_element>wnfkwwfm</highlighted_element>
+  <language>XML</language>
+  <offset>68</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'fkwnwknf'</description>
+  <highlighted_element>fkwnwknf</highlighted_element>
+  <language>XML</language>
+  <offset>77</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'fmwenw'</description>
+  <highlighted_element>fmwenw</highlighted_element>
+  <language>XML</language>
+  <offset>86</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'fwmeow'</description>
+  <highlighted_element>fwmeow</highlighted_element>
+  <language>XML</language>
+  <offset>93</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'fwmfw'</description>
+  <highlighted_element>fwmfw</highlighted_element>
+  <language>XML</language>
+  <offset>100</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'fmewkfkmfkewkfwknfwnfwnfwnffwffnfnfnffiqwngingi'</description>
+  <highlighted_element>fmewkfkmfkewkfwknfwnfwnfwnffwffnfnfnffiqwngingi</highlighted_element>
+  <language>XML</language>
+  <offset>106</offset>
+  <length>47</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'gnioegqig'</description>
+  <highlighted_element>gnioegqig</highlighted_element>
+  <language>XML</language>
+  <offset>154</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'qwgiqwng'</description>
+  <highlighted_element>qwgiqwng</highlighted_element>
+  <language>XML</language>
+  <offset>164</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'wfwiqgiqowgn'</description>
+  <highlighted_element>wfwiqgiqowgn</highlighted_element>
+  <language>XML</language>
+  <offset>173</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'wfnqwngw'</description>
+  <highlighted_element>wfnqwngw</highlighted_element>
+  <language>XML</language>
+  <offset>190</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'wiowngfonioneiogqng'</description>
+  <highlighted_element>wiowngfonioneiogqng</highlighted_element>
+  <language>XML</language>
+  <offset>199</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml</file>
+  <line>69</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_articles.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'bgengroibreigbioegiegbeigbieog'</description>
+  <highlighted_element>bgengroibreigbioegiegbeigbieog</highlighted_element>
+  <language>XML</language>
+  <offset>219</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>49</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'kfonneoriwgiewrgbie'</description>
+  <highlighted_element>kfonneoriwgiewrgbie</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>49</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'fgnninfiqn'</description>
+  <highlighted_element>fgnninfiqn</highlighted_element>
+  <language>XML</language>
+  <offset>41</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>49</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'nfwqngiqign'</description>
+  <highlighted_element>nfwqngiqign</highlighted_element>
+  <language>XML</language>
+  <offset>52</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>49</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'wnfiqwngingi'</description>
+  <highlighted_element>wnfiqwngingi</highlighted_element>
+  <language>XML</language>
+  <offset>64</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>49</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'gnioegqig'</description>
+  <highlighted_element>gnioegqig</highlighted_element>
+  <language>XML</language>
+  <offset>77</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>49</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'qwgiqwng'</description>
+  <highlighted_element>qwgiqwng</highlighted_element>
+  <language>XML</language>
+  <offset>87</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>49</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'wfwiqgiqowgn'</description>
+  <highlighted_element>wfwiqgiqowgn</highlighted_element>
+  <language>XML</language>
+  <offset>96</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>49</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'wfnqwngw'</description>
+  <highlighted_element>wfnqwngw</highlighted_element>
+  <language>XML</language>
+  <offset>113</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>49</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'wiowngfonioneiogqng'</description>
+  <highlighted_element>wiowngfonioneiogqng</highlighted_element>
+  <language>XML</language>
+  <offset>122</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml</file>
+  <line>49</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/item_source.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'bgengroibreigbioegiegbeigbieog'</description>
+  <highlighted_element>bgengroibreigbioegiegbeigbieog</highlighted_element>
+  <language>XML</language>
+  <offset>142</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/themes.xml</file>
+  <line>27</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Firedatabase'</description>
+  <highlighted_element>Firedatabase</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/themes.xml</file>
+  <line>27</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'assis'</description>
+  <highlighted_element>assis</highlighted_element>
+  <language>XML</language>
+  <offset>36</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml</file>
+  <line>27</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Firedatabase'</description>
+  <highlighted_element>Firedatabase</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml</file>
+  <line>27</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'assis'</description>
+  <highlighted_element>assis</highlighted_element>
+  <language>XML</language>
+  <offset>36</offset>
+  <length>5</length>
+</problem>
+</problems>

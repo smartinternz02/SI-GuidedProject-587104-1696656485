@@ -1,5 +1,6 @@
 package com.aarush.newsapp
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -13,6 +14,7 @@ class login_form : AppCompatActivity() {
     private lateinit var bind: ActivityLoginFormBinding
     private var isPasswordVisible = false
 
+    @SuppressLint("Range")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         bind = ActivityLoginFormBinding.inflate(layoutInflater)

@@ -80,19 +80,33 @@
             app:layout_constraintTop_toBottomOf="@+id/ed2"
             />
         <Button
+            android:id="@+id/passwordVisibilityButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Show Password"
+            android:textSize="14sp"
+            android:backgroundTint="@color/teal_200"
+            app:layout_constraintTop_toBottomOf="@+id/ed3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="10dp"
+            />
+
+        <Button
             android:id="@+id/btnrgs"
             android:layout_width="320dp"
             android:layout_height="60dp"
+            android:layout_marginTop="64dp"
+            android:backgroundTint="@color/teal_200"
             android:gravity="center"
             android:text="Register"
             android:textSize="20dp"
             android:textStyle="bold"
-            android:layout_marginTop="35dp"
-            android:backgroundTint="@color/teal_200"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.505"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/ed3"
-            />
+            app:layout_constraintTop_toBottomOf="@+id/ed3" />
+
         <TextView
             android:id="@+id/t1"
             android:layout_width="wrap_content"

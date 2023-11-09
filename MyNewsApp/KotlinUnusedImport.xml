@@ -1,0 +1,132 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/login_form.kt</file>
+  <line>7</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/login_form.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import android.view.View</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/login_form.kt</file>
+  <line>8</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/login_form.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import android.widget.Toast</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/detail/DetailNewsActivity.kt</file>
+  <line>9</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.ui.detail</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/detail/DetailNewsActivity.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import androidx.lifecycle.lifecycleScope</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/detail/DetailNewsActivity.kt</file>
+  <line>11</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.ui.detail</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/detail/DetailNewsActivity.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import com.aarush.newsapp.R</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/detail/DetailNewsActivity.kt</file>
+  <line>14</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.ui.detail</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/detail/DetailNewsActivity.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import kotlinx.coroutines.Dispatchers</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/detail/DetailNewsActivity.kt</file>
+  <line>15</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.ui.detail</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/detail/DetailNewsActivity.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import kotlinx.coroutines.launch</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>32</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/detail/DetailNewsActivity.kt</file>
+  <line>16</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.ui.detail</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/detail/DetailNewsActivity.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import java.lang.ref.WeakReference</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/main/MainViewModel.kt</file>
+  <line>11</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.ui.main</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/main/MainViewModel.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import kotlinx.coroutines.flow.collectLatest</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>44</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/main/MainViewModel.kt</file>
+  <line>12</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.ui.main</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/main/MainViewModel.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import kotlinx.coroutines.flow.onStart</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/search/SearchActivity.kt</file>
+  <line>5</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp.ui.search</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/ui/search/SearchActivity.kt" />
+  <problem_class id="KotlinUnusedImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import directive</problem_class>
+  <description>Unused import directive</description>
+  <highlighted_element>import android.util.Log</highlighted_element>
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>23</length>
+</problem>
+</problems>

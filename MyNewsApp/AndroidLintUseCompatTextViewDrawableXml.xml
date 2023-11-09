@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml</file>
+  <line>22</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_forgot.xml" />
+  <problem_class id="AndroidLintUseCompatTextViewDrawableXml" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compat compound drawable attributes should be used on TextView</problem_class>
+  <hints />
+  <description>&lt;html&gt;Use &lt;code&gt;app:drawableLeftCompat&lt;/code&gt; instead of &lt;code&gt;android:drawableLeft&lt;/code&gt;&lt;/html&gt;</description>
+  <highlighted_element>android:drawableLeft=&quot;@drawable/baseline_lock_reset_24&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>55</length>
+</problem>
+</problems>

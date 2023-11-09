@@ -1,0 +1,119 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>20</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="CanBeVal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local 'var' is never modified and can be declared as 'val'</problem_class>
+  <description>Variable is never modified, so it can be declared using 'val'</description>
+  <highlighted_element>var</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>21</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="CanBeVal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local 'var' is never modified and can be declared as 'val'</problem_class>
+  <description>Variable is never modified, so it can be declared using 'val'</description>
+  <highlighted_element>var</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>34</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="CanBeVal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local 'var' is never modified and can be declared as 'val'</problem_class>
+  <description>Variable is never modified, so it can be declared using 'val'</description>
+  <highlighted_element>var</highlighted_element>
+  <language>kotlin</language>
+  <offset>12</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>35</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="CanBeVal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local 'var' is never modified and can be declared as 'val'</problem_class>
+  <description>Variable is never modified, so it can be declared using 'val'</description>
+  <highlighted_element>var</highlighted_element>
+  <language>kotlin</language>
+  <offset>12</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>36</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="CanBeVal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local 'var' is never modified and can be declared as 'val'</problem_class>
+  <description>Variable is never modified, so it can be declared using 'val'</description>
+  <highlighted_element>var</highlighted_element>
+  <language>kotlin</language>
+  <offset>12</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>38</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="CanBeVal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local 'var' is never modified and can be declared as 'val'</problem_class>
+  <description>Variable is never modified, so it can be declared using 'val'</description>
+  <highlighted_element>var</highlighted_element>
+  <language>kotlin</language>
+  <offset>16</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>42</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="CanBeVal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local 'var' is never modified and can be declared as 'val'</problem_class>
+  <description>Variable is never modified, so it can be declared using 'val'</description>
+  <highlighted_element>var</highlighted_element>
+  <language>kotlin</language>
+  <offset>16</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>44</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="CanBeVal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local 'var' is never modified and can be declared as 'val'</problem_class>
+  <description>Variable is never modified, so it can be declared using 'val'</description>
+  <highlighted_element>var</highlighted_element>
+  <language>kotlin</language>
+  <offset>20</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/aarush/newsapp/signupForm.kt</file>
+  <line>59</line>
+  <module>NewsApp.app.main</module>
+  <package>com.aarush.newsapp</package>
+  <entry_point TYPE="method" FQNAME="com.aarush.newsapp.signupForm void onCreate(android.os.Bundle savedInstanceState)" />
+  <problem_class id="CanBeVal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Local 'var' is never modified and can be declared as 'val'</problem_class>
+  <description>Variable is never modified, so it can be declared using 'val'</description>
+  <highlighted_element>var</highlighted_element>
+  <language>kotlin</language>
+  <offset>20</offset>
+  <length>3</length>
+</problem>
+</problems>

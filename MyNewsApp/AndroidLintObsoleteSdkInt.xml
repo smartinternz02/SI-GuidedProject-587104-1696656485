@@ -1,0 +1,37 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable-v24</file>
+  <entry_point TYPE="dir" FQNAME="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+  <problem_class id="AndroidLintObsoleteSdkInt" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete SDK_INT Version Check</problem_class>
+  <hints />
+  <description>&lt;html&gt;This folder configuration (&lt;code&gt;v24&lt;/code&gt;) is unnecessary; &lt;code&gt;minSdkVersion&lt;/code&gt; is 24. Merge all the resources in this folder into &lt;code&gt;drawable&lt;/code&gt;.&lt;/html&gt;</description>
+  <highlighted_element />
+  <language />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values/themes.xml</file>
+  <line>37</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+  <problem_class id="AndroidLintObsoleteSdkInt" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete SDK_INT Version Check</problem_class>
+  <hints />
+  <description>&lt;html&gt;Unnecessary; SDK_INT is always &gt;= 21&lt;/html&gt;</description>
+  <highlighted_element>tools:targetApi=&quot;l&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>44</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml</file>
+  <line>37</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" />
+  <problem_class id="AndroidLintObsoleteSdkInt" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete SDK_INT Version Check</problem_class>
+  <hints />
+  <description>&lt;html&gt;Unnecessary; SDK_INT is always &gt;= 21&lt;/html&gt;</description>
+  <highlighted_element>tools:targetApi=&quot;l&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>44</offset>
+  <length>19</length>
+</problem>
+</problems>

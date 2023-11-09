@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/drawable/input_style.xml</file>
+  <line>5</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/input_style.xml" />
+  <problem_class id="AndroidLintVectorRaster" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vector Image Generation</problem_class>
+  <hints />
+  <description>&lt;html&gt;Limit vector icons sizes to 200×200 to keep icon drawing fast; see &lt;a href=&quot;https://developer.android.com/studio/write/vector-asset-studio#when&quot;&gt;https://developer.android.com/studio/write/vector-asset-studio#when&lt;/a&gt; for more&lt;/html&gt;</description>
+  <highlighted_element>360dp</highlighted_element>
+  <language>XML</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+</problems>

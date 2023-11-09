@@ -21,6 +21,8 @@ import com.aarush.newsapp.ui.search.SearchActivity
 import com.google.android.material.tabs.TabLayout
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
+import android.os.Bundle
+import android.util.Log
 
 @AndroidEntryPoint
 class MainActivity : BaseActivityBinding<ActivityMainBinding>(),
@@ -40,10 +42,18 @@ class MainActivity : BaseActivityBinding<ActivityMainBinding>(),
 
     private var onTabSelectedListener: TabLayout.OnTabSelectedListener? = null
 
-    private lateinit var categories : List<String>
+    private lateinit var categories: List<String>
+
+    private var startTime: Long = 0
 
     override val bindingInflater: (LayoutInflater) -> ActivityMainBinding
         get() = { ActivityMainBinding.inflate(layoutInflater) }
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        startTime = System.currentTimeMillis()
+    }
 
     override fun setupView() {
         initiateData()
@@ -61,7 +71,7 @@ class MainActivity : BaseActivityBinding<ActivityMainBinding>(),
                 stopLoading()
                 if (state.data.isEmpty() && paginator?.isFirstGet == true) {
                     showEmptyData()
-                }else {
+                } else {
                     hideEmptyData()
                     sourceAdapter.appendList(state.data)
                 }
@@ -77,14 +87,19 @@ class MainActivity : BaseActivityBinding<ActivityMainBinding>(),
                 handleFailure(state.failure)
             }
 
-            else -> {}
+            else -> {
+                val endTime = System.currentTimeMillis()
+                val renderTime = endTime - startTime
+                Log.d("ScreenRenderTime", "Render Time: $renderTime milliseconds")
+
+            }
         }
     }
 
     private fun initiateData() {
         currCategory = getString(R.string.general_category)
 
-        categories= listOf(
+        categories = listOf(
             getString(R.string.general_category),
             getString(R.string.business_category),
             getString(R.string.entertainment_category),
@@ -212,7 +227,10 @@ class MainActivity : BaseActivityBinding<ActivityMainBinding>(),
     }
 
     private fun showFilterDialog() {
-        val filterOptions = arrayOf(getString(R.string.search_for_source), getString(R.string.search_for_article))
+        val filterOptions = arrayOf(
+            getString(R.string.search_for_source),
+            getString(R.string.search_for_article)
+        )
         var filter = encryptedPreferences.filter
         val builder = AlertDialog.Builder(this)
         builder.setTitle(getString(R.string.search_for))
@@ -243,6 +261,4 @@ class MainActivity : BaseActivityBinding<ActivityMainBinding>(),
         const val SEARCH_SOURCE = 0
         const val SEARCH_ARTICLE = 1
     }
-
-
 }

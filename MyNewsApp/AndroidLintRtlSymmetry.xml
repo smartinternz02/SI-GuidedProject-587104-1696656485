@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>43</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintRtlSymmetry" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Padding and margin symmetry</problem_class>
+  <hints />
+  <description>&lt;html&gt;When you define &lt;code&gt;paddingLeft&lt;/code&gt; you should probably also define &lt;code&gt;paddingRight&lt;/code&gt; for right-to-left symmetry&lt;/html&gt;</description>
+  <highlighted_element>android:paddingLeft</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>45</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintRtlSymmetry" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Padding and margin symmetry</problem_class>
+  <hints />
+  <description>&lt;html&gt;When you define &lt;code&gt;paddingLeft&lt;/code&gt; you should probably also define &lt;code&gt;paddingRight&lt;/code&gt; for right-to-left symmetry&lt;/html&gt;</description>
+  <highlighted_element>android:paddingLeft</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>59</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintRtlSymmetry" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Padding and margin symmetry</problem_class>
+  <hints />
+  <description>&lt;html&gt;When you define &lt;code&gt;paddingLeft&lt;/code&gt; you should probably also define &lt;code&gt;paddingRight&lt;/code&gt; for right-to-left symmetry&lt;/html&gt;</description>
+  <highlighted_element>android:paddingLeft</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>19</length>
+</problem>
+</problems>

@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml</file>
+  <line>12</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login_form.xml" />
+  <problem_class id="AndroidLintScrollViewSize" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">ScrollView size validation</problem_class>
+  <hints />
+  <description>&lt;html&gt;This androidx.constraintlayout.widget.ConstraintLayout should use &lt;code&gt;android:layout_height=&quot;wrap_content&quot;&lt;/code&gt;&lt;/html&gt;</description>
+  <highlighted_element>android:layout_height=&quot;match_parent&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>36</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml</file>
+  <line>12</line>
+  <module>NewsApp.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup_form.xml" />
+  <problem_class id="AndroidLintScrollViewSize" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">ScrollView size validation</problem_class>
+  <hints />
+  <description>&lt;html&gt;This androidx.constraintlayout.widget.ConstraintLayout should use &lt;code&gt;android:layout_height=&quot;wrap_content&quot;&lt;/code&gt;&lt;/html&gt;</description>
+  <highlighted_element>android:layout_height=&quot;match_parent&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>36</length>
+</problem>
+</problems>
