@@ -49,7 +49,7 @@ If you wish to deploy the application to the Google Play Store or distribute it 
 
 Explore the features and functionality of the News App by watching the demo video. Click the link below to view the video:
 
-[News App Demo Video](https://youtu.be/hvL2-K_FCKk)
+[News App Demo Video](https://youtu.be/VupV0otkr6U)
 
 ## Screenshots
 
