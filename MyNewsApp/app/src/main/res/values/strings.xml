@@ -16,5 +16,7 @@
     <string name="apply">Apply</string>
     <string name="result_text">Result for %1$s</string>
     <string name="not_found">Not Found</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="forgot_password">Forgot Password</string>
 
 </resources>
